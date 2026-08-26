@@ -14,3 +14,4 @@ int main(){
     printf("A somatória é: %d", soma(num));
     return 0;
 }
+/*soma(3) -> soma(2) -> soma(1) -> retorna 1 -> retorna 3 -> retorna 6*/
