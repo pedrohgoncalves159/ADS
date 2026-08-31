@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 void dec2bin(int num){
-    if (num <= 2){
-        printf("1");
+    if (num == 0){
+        printf("0");
         return;
     }
     else {
