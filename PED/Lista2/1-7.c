@@ -18,5 +18,5 @@ int main(){
     intervalo_decrescente(num1, num2);
 }
 
-/* intervalo(1, 5) -> print(1) -> intervalo(2, 5) -> print 2 -> intervalo(3, 5) ->
-print 3 -> intervalo(4, 5) -> print 4 -> intervalo(5, 5) -> print 5 -> retorna(vazio) ate o inicio*/
+/* intervalo(1, 5) -> print 5 -> intervalo(1, 4) -> print 4 -> intervalo(1, 3) ->
+print 3 -> intervalo(1, 2) -> print 2 -> intervalo(1, 1) -> print 1 -> retorna(vazio) ate o inicio*/
