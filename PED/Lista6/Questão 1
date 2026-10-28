@@ -5,4 +5,7 @@ B)por que a pilha precisa controlar uma ponta (o topo), enquanto a fila precisa 
 C)um exemplo do dia a dia, diferente dos citados no texto, para cada uma das estruturas;
 
 Pilha é uma estrutura de dados onde o ultimo a entrar (Last In) é o primeiro a sair (First Out)(LIFO). É indicada em situações em que o importante é o ultimo elemento adicionado à estrutura.
-Fila é uma estrutura onde o primeiro
+Fila é uma estrutura onde o primeiro a entrar é o primeiro a sair, diferentemente da pilha onde nos preocupamos apenas com o ultimo elemento, na fila é importante o primeiro e o ultimo elemento.
+
+no dia a dia como exemplo de pilha nos temos os editores de texto que nos permite desfazer a ultima ação. Fila nos temos como exemplo 
+as playlists de musica, onde por natureza as musicas são enfileiradas, tocando primeiro a primeira adicionada até chegar a última.
